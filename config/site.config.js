@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/ooyang0325',
     },
+    {
+      name: 'Instagram',
+      link: 'https://www.instagram.com/oo___yang/',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
